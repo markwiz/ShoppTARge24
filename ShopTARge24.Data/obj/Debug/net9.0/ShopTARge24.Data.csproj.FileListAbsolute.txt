@@ -1,0 +1,15 @@
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\bin\Debug\net9.0\ShopTARge24.Data.deps.json
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\bin\Debug\net9.0\ShopTARge24.Data.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\bin\Debug\net9.0\ShopTARge24.Data.pdb
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\bin\Debug\net9.0\ShopTARge24.Core.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\bin\Debug\net9.0\ShopTARge24.Core.pdb
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\obj\Debug\net9.0\ShopTARge24.Data.csproj.AssemblyReference.cache
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\obj\Debug\net9.0\ShopTARge24.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\obj\Debug\net9.0\ShopTARge24.Data.AssemblyInfoInputs.cache
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\obj\Debug\net9.0\ShopTARge24.Data.AssemblyInfo.cs
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\obj\Debug\net9.0\ShopTARge24.Data.csproj.CoreCompileInputs.cache
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\obj\Debug\net9.0\ShopTARg.256F1828.Up2Date
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\obj\Debug\net9.0\ShopTARge24.Data.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\obj\Debug\net9.0\refint\ShopTARge24.Data.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\obj\Debug\net9.0\ShopTARge24.Data.pdb
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Data\obj\Debug\net9.0\ref\ShopTARge24.Data.dll

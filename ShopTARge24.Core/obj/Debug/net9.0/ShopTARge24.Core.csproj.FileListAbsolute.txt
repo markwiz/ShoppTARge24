@@ -1,0 +1,11 @@
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\bin\Debug\net9.0\ShopTARge24.Core.deps.json
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\bin\Debug\net9.0\ShopTARge24.Core.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\bin\Debug\net9.0\ShopTARge24.Core.pdb
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\obj\Debug\net9.0\ShopTARge24.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\obj\Debug\net9.0\ShopTARge24.Core.AssemblyInfoInputs.cache
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\obj\Debug\net9.0\ShopTARge24.Core.AssemblyInfo.cs
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\obj\Debug\net9.0\ShopTARge24.Core.csproj.CoreCompileInputs.cache
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\obj\Debug\net9.0\ShopTARge24.Core.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\obj\Debug\net9.0\refint\ShopTARge24.Core.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\obj\Debug\net9.0\ShopTARge24.Core.pdb
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.Core\obj\Debug\net9.0\ref\ShopTARge24.Core.dll

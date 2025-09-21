@@ -1,0 +1,17 @@
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\bin\Debug\net9.0\ShopTARge24.ApplicationServices.deps.json
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\bin\Debug\net9.0\ShopTARge24.ApplicationServices.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\bin\Debug\net9.0\ShopTARge24.ApplicationServices.pdb
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\bin\Debug\net9.0\ShopTARge24.Core.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\bin\Debug\net9.0\ShopTARge24.Data.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\bin\Debug\net9.0\ShopTARge24.Data.pdb
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\bin\Debug\net9.0\ShopTARge24.Core.pdb
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\obj\Debug\net9.0\ShopTARge24.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\obj\Debug\net9.0\ShopTARge24.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\obj\Debug\net9.0\ShopTARge24.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\obj\Debug\net9.0\ShopTARge24.ApplicationServices.AssemblyInfo.cs
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\obj\Debug\net9.0\ShopTARge24.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\obj\Debug\net9.0\ShopTARg.CCFDAE04.Up2Date
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\obj\Debug\net9.0\ShopTARge24.ApplicationServices.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\obj\Debug\net9.0\refint\ShopTARge24.ApplicationServices.dll
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\obj\Debug\net9.0\ShopTARge24.ApplicationServices.pdb
+C:\Users\MAAG\Desktop\Progre\ShopTARge24\ShopTARge24\ShopTARge24.ApplicationServices\obj\Debug\net9.0\ref\ShopTARge24.ApplicationServices.dll

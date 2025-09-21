@@ -15,12 +15,13 @@ builder.Services.AddDbContext<ShopTARge24Context>(options =>
         builder.Configuration.GetConnectionString("DefaultConnection"),
         sql =>
         {
-            sql.EnableRetryOnFailure(           // auto-retry transient errors
+            sql.EnableRetryOnFailure(           
                 maxRetryCount: 5,
                 maxRetryDelay: TimeSpan.FromSeconds(10),
                 errorNumbersToAdd: null);
-            sql.CommandTimeout(60);             // seconds; bump if doing heavy migrations
+            sql.CommandTimeout(60);             
         }));
+builder.Services.AddScoped<IKindergartenServices, KindergartenServices>();
 
 var app = builder.Build();
 
